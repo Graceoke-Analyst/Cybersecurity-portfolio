@@ -23,7 +23,7 @@ Each project below is a deep-dive into a specific security challenge, following 
 * Project Title-Incident handler journal
 * Core Focus Area-Advanced Incident Analysis, Threat Intelligence
 * Key Skills Demonstrated-Investigation, 5 W's Analysis, External Tools (VirusTotal, Sandbox Analysis)
-* Repository Link ()
+* Repository Link (https://github.com/Graceoke-Analyst/Documenting-reports-using-Incident-handler-journal)
 
 ## Project 2
 * Project Title-Vulnerability Assessment & Risk Register
@@ -54,6 +54,12 @@ Each project below is a deep-dive into a specific security challenge, following 
 * Core Focus Area-Security-Incident Response Planning, Framework Application
 * Key Skills Demonstrated-DDoS Response, NIST Framework (Identify, Protect, Detect, Respond, Recover), Network Security Policy
 * Repository Link(https://github.com/Graceoke-Analyst/Utilizing-NIST-CSF-to-respond-to-a-security-incident)
+
+## Project 7
+* Project Title-Updating File Permissions
+* Core Focus Area-System Security, Access Control
+* Key Skills Demonstrated-Linux/Unix Permissions (chmod), Principle of Least Privilege, Command Line Security
+* Repository Link(
 
 
 
