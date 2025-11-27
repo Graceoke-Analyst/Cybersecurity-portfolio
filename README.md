@@ -41,7 +41,13 @@ Each project below is a deep-dive into a specific security challenge, following 
 * Project Title-Updating a File Through Python.
 * Core Focus Area-Security Automation, System Hardening.
 * Key Skills Demonstrated-Python Scripting, File I/O, Error Handling (PermissionError), Configuration Patching.
-* Repository Link(
+* Repository Link(https://github.com/Graceoke-Analyst/-Updating-file-permission-using-Linux)
+
+## Project 5
+* Project Title-Applying Filters to SQL Queries
+* Core Focus Area-Security Log Analysis, Threat Hunting
+* Key Skills Demonstrated-SQL Filtering (WHERE, AND, OR), Identifying post-hours unauthorized access, Database analysis
+*  Repository Link(
 
 
 
