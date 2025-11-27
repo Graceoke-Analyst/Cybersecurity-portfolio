@@ -20,10 +20,10 @@ System Security-Linux/Unix File Permissions.
 Each project below is a deep-dive into a specific security challenge, following the C-A-R methodology to clearly demonstrate the problem, my actions, and the measurable results.
 
 ## Project 1
-* Project Title-Incident response journal
+* Project Title-Incident handler journal
 * Core Focus Area-Advanced Incident Analysis, Threat Intelligence
 * Key Skills Demonstrated-Investigation, 5 W's Analysis, External Tools (VirusTotal, Sandbox Analysis)
-* Repository Link (https://github.com/Graceoke-Analyst/Utilizing-NIST-CSF-to-respond-to-a-security-incident)
+* Repository Link ()
 
 ## Project 2
 * Project Title-Vulnerability Assessment & Risk Register
