@@ -45,9 +45,16 @@ Each project below is a deep-dive into a specific security challenge, following 
 
 ## Project 5
 * Project Title-Applying Filters to SQL Queries
-* Core Focus Area-Security Log Analysis, Threat Hunting
+* Core Focus Area-Security-Log Analysis, Threat Hunting
 * Key Skills Demonstrated-SQL Filtering (WHERE, AND, OR), Identifying post-hours unauthorized access, Database analysis
-*  Repository Link(
+*  Repository Link(https://github.com/Graceoke-Analyst/-Applying-filters-to-SQL-queries)
+
+## Project 6
+* Project Title-Utilizing NIST CSF
+* Core Focus Area-Security-Incident Response Planning, Framework Application
+* Key Skills Demonstrated-DDoS Response, NIST Framework (Identify, Protect, Detect, Respond, Recover), Network Security Policy
+* Repository Link(
+
 
 
 
