@@ -19,6 +19,12 @@ System Security-Linux/Unix File Permissions.
 ## Project Portfolio Overview
 Each project below is a deep-dive into a specific security challenge, following the C-A-R methodology to clearly demonstrate the problem, my actions, and the measurable results.
 
+## Project Title
+Project 1-Incident response journal
+* Core Focus Area-Advanced Incident Analysis, Threat Intelligence
+* Key Skills Demonstrated-Investigation, 5 W's Analysis, External Tools (VirusTotal, Sandbox Analysis)
+* Repository Link (
+
 
 
 
