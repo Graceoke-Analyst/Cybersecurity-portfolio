@@ -29,6 +29,12 @@ Each project below is a deep-dive into a specific security challenge, following 
 * Project Title-Vulnerability Assessment & Risk Register
 * Core Focus Area-Vulnerability Scoring (CVSS), Risk Mitigation.
 * Key Skills Demonstrated-Asset Classification, Likelihood/Severity Scoring, Mitigation Planning, GDPR/PCI DSS Compliance
+* Repository Link(https://github.com/Graceoke-Analyst/Vulnerability-assessment)
+
+## Project 3
+* Project Title-Conducting a Security Audit Report.
+* Core Focus Area-GRC, Security Controls, Compliance.
+* Key Skills Demonstrated-Controls Checklist Development, Regulatory Compliance (PCI DSS, GDPR), Audit Reporting.
 * Repository Link(
 
 
