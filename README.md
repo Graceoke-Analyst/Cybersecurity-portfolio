@@ -59,7 +59,11 @@ Each project below is a deep-dive into a specific security challenge, following 
 * Project Title-Updating File Permissions
 * Core Focus Area-System Security, Access Control
 * Key Skills Demonstrated-Linux/Unix Permissions (chmod), Principle of Least Privilege, Command Line Security
-* Repository Link(
+* Repository Link(https://github.com/Graceoke-Analyst/-Updating-file-permission-using-Linux)
+
+I am open to connecting and discussing opportunities in the Cybersecurity field.
+* LinkedIn:
+*Email:Adegokeeniola2002@gmail.com
 
 
 
