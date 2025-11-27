@@ -35,6 +35,12 @@ Each project below is a deep-dive into a specific security challenge, following 
 * Project Title-Conducting a Security Audit Report.
 * Core Focus Area-GRC, Security Controls, Compliance.
 * Key Skills Demonstrated-Controls Checklist Development, Regulatory Compliance (PCI DSS, GDPR), Audit Reporting.
+* Repository Link(https://github.com/Graceoke-Analyst/Conducting-a-security-audit-for-Botium-toys-Mock-company)
+
+## Project 4
+* Project Title-Updating a File Through Python.
+* Core Focus Area-Security Automation, System Hardening.
+* Key Skills Demonstrated-Python Scripting, File I/O, Error Handling (PermissionError), Configuration Patching.
 * Repository Link(
 
 
